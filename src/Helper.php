@@ -1,6 +1,6 @@
 <?php
 
-namespace SamplesRequest\Workers;
+namespace SamplesRequest;
 
 class Helper {
 
